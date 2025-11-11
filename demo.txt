@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+Hello
+Added new lines
+>>>>>>> a7fe7c8 (Local changes)
 Lines updated
